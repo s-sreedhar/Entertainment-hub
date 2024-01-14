@@ -1,6 +1,6 @@
 # Entertainment Hub
 
-  Movie App built in React JS and Material UI.
+  Movie App built using React JS and Material UI.
 
 
 
